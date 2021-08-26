@@ -1,0 +1,10 @@
+D:\Work\3DRenderer\bin\Debug\3DRenderer.exe.config
+D:\Work\3DRenderer\bin\Debug\3DRenderer.exe
+D:\Work\3DRenderer\bin\Debug\3DRenderer.pdb
+D:\Work\3DRenderer\obj\Debug\3DRenderer.csprojAssemblyReference.cache
+D:\Work\3DRenderer\obj\Debug\_3DRenderer.BoxTest.resources
+D:\Work\3DRenderer\obj\Debug\_3DRenderer.Properties.Resources.resources
+D:\Work\3DRenderer\obj\Debug\3DRenderer.csproj.GenerateResource.cache
+D:\Work\3DRenderer\obj\Debug\3DRenderer.csproj.CoreCompileInputs.cache
+D:\Work\3DRenderer\obj\Debug\3DRenderer.exe
+D:\Work\3DRenderer\obj\Debug\3DRenderer.pdb
